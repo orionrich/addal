@@ -47,7 +47,6 @@ coverage
 bower_components
 
 # Lock files
-yarn.lock
 package-lock.json
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
